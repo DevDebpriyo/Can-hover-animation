@@ -1,4 +1,4 @@
-# 🥫 Can Hover Rotation Animation  
+ # 🥫 Can Hover Rotation Animation  
 
 A simple **CSS animation** project that smoothly rotates a can when mouse pointer is hoverd . Built using **HTML & CSS**. This project demonstrates keyframe animations to create a smooth and continuous rotation effect.   
  
