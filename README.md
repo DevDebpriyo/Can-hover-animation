@@ -13,5 +13,5 @@ A simple **CSS animation** project that smoothly rotates a can when mouse pointe
 ## 🛠 Technologies Used  
 - **HTML** – Structure of the animation  
 - **CSS** – Keyframe animations for rotation  
-
+ 
 
