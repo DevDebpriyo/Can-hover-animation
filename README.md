@@ -4,7 +4,7 @@ A simple **CSS animation** project that smoothly rotates a can when mouse pointe
     
 ## 🎥 Live Demo  
 🔗 [View Animation] : https://can-hover-rotate.netlify.app/ 
-                       
+                        
 ## 🚀 Features  
 ✅ Smooth 360° can rotation  
 ✅ Pure CSS animation (No JavaScript required)   
